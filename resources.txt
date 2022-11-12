@@ -28,3 +28,21 @@ https://ezseonews.com/wordpress/install-wordpress-on-your-own-computer-using-des
 
 
 
+domain name analyzer
+https://domainpunch.com/dna/download.php
+
+wayback machine
+https://archive.org/web/
+
+
+
+Web Hosting & Registrar
+Option 1. STEP-BY-STEP INSTRUCTIONS for installing WordPress on a domain with SEPARATE Registrar and Host (RECOMMENDED):
+https://ezseonews.com/web-hosting/recommended-domain-registrar-hosting-companies/
+
+Option 2. STEP-BY-STEP INSTRUCTIONS for installing WordPress on a domain using the Host as Registrar (EASIER OPTION):
+https://ezseonews.com/installing-wordpress-on-bluehost/
+
+
+Domain name registrar
+https://www.namecheap.com/
