@@ -1,1 +1,30 @@
+git repository
 https://github.com/pudgeebars/wordpress 
+
+
+
+learning material
+https://ibm-learning.udemy.com/course/wordpress-for-beginners-course/learn/lecture/6148256#overview
+
+
+
+How to migrate a local flywheel site to live website hosting account
+https://community.localwp.com/t/how-to-migrate-a-local-flywheel-site-to-live-website-hosting-account/816
+
+
+
+Local Install tutorials
+Local by flywheel
+https://localwp.com/
+
+XAMPP
+https://ezseonews.com/wordpress/install-wordpress-on-your-own-computer-with-xampp/
+
+MAMP
+https://ezseonews.com/wordpress/install-wordpress-on-your-own-computer-using-mamp/
+
+ServerPress
+https://ezseonews.com/wordpress/install-wordpress-on-your-own-computer-using-desktopserver-by-serverpress/
+
+
+
